@@ -1,4 +1,4 @@
-facebook-manager-ios
+DEPRECATED
 ====================
 This is a mashup I use of multiple FacebookManagers.
 
